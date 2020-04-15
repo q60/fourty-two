@@ -15,6 +15,8 @@ It requires **LiquidCrystal_I2C** and **Keypad** libraries.
 
 The `_` keys are silent ones - they have no use (as for now).
 
-`-` `*` launchs code.
+`-` `*` launches code.
+
 `-` `C` resets **Arduino** board.
+
 `-` `#` erases one character.
